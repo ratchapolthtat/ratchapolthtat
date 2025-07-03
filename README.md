@@ -2,16 +2,18 @@
 
 <br />
 
-<h2>About me</h2>
+<h2>👨‍💼 About me</h2>
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;Hello! I'm <b>Ratchapol Thongta</b>, a passionate software developer with a focus on building dynamic, scalable web applications. I have a deep love for coding and problem-solving, and I constantly strive to improve my skills with new technologies. I enjoy working with a variety of programming languages, frameworks, and tools to build modern solutions that provide value and enhance user experience.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hello! I'm <b>Ratchapol Thongta</b>, a passionate software developer with a focus on building dynamic, scalable web applications. I have a deep love for coding and problem-solving, and I constantly strive to improve my skills with new technologies. I enjoy working with a variety of programming languages, frameworks, and tools to build modern solutions that provide value and enhance user experience.</p>
 
 <ul>
-  <li>I'm constantly learning and exploring new technologies to improve my skills.</li>
-  <li>I'm currently building a full-stack web application using Angular for the frontend and NestJS for the backend.</li>
+  <li>🌱 I'm constantly learning and exploring new technologies to improve my skills.</li>
+  <li>🧩 I'm currently contributing to open source projects focused on NestJS boilerplate templates.</li>
+  <li>💻 I'm currently building a full-stack web application using Angular for the frontend and NestJS for the backend.</li>
+  <li>🌐 Check out my <a href="https://ratchapolthtat.com" target="_blank">personal website</a> to learn more about me and the projects I'm working on.</li>
 </ul>
 
-<h2>Connect with me</h2>
+<h2>🗪 Connect with me</h2>
 
 <ul>
   <li>
@@ -19,7 +21,7 @@
   </li>
 </ul>
 
-<h2>Skills</h2>
+<h2>✨ Skills</h2>
 
 <details>
   <summary>
