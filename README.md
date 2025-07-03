@@ -15,7 +15,7 @@
 
 <ul>
   <li>
-    Email: <a href="mailto:ratchapolthta.t@gmail.com">ratchapolttum@gmail.com</a>
+    Email: <a href="mailto:ratchapolthta.t@gmail.com">ratchapolthta.t@gmail.com</a>
   </li>
 </ul>
 
